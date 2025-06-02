@@ -302,7 +302,8 @@ Tieche, Nabil Ouerhani, Hazım Kemal Ekenel, Jean-Philippe Thiran)
 * [Turkish Word Embeddings with 900k data](https://github.com/savasy/TurkishWordEmbeddings) (Savas Y)
 * [A finite-state morphological analyzer for Turkish](https://github.com/coltekin/TRmorph) (Çağrı Çöltekin)
 * [Keras ile Türkçe Anlam Analizi(Olumlu - Olumsuz)](https://github.com/zekikus/Turkce-Anlam-Analizi) (Zeki Kuş)
-
+* [Türkçe Duygu Sözlüğü - SWNetTR++ - 49K - Turkish Sentiment Lexicon](https://github.com/swnettr/SWNetTR) (Fatih Sağlam)
+  
 ### Arama Algoritmaları
 * [C ile Ağaçlarda Bilgisiz/Bilmeden Arama Algoritmaları](https://github.com/Enes1313/Uninformed-Search-Strategies)  (Enes AYDIN)
 
